@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/diont/static/css/main.53cd702d.css",
-    "main.js": "/diont/static/js/main.99808b04.js",
-    "static/media/photo.png": "/diont/static/media/photo.a7e92db2836ae96220f0.png",
-    "index.html": "/diont/index.html",
-    "main.53cd702d.css.map": "/diont/static/css/main.53cd702d.css.map",
-    "main.99808b04.js.map": "/diont/static/js/main.99808b04.js.map"
+    "main.css": "/static/css/main.53cd702d.css",
+    "main.js": "/static/js/main.840592fb.js",
+    "static/media/photo.png": "/static/media/photo.a7e92db2836ae96220f0.png",
+    "index.html": "/index.html",
+    "main.53cd702d.css.map": "/static/css/main.53cd702d.css.map",
+    "main.840592fb.js.map": "/static/js/main.840592fb.js.map"
   },
   "entrypoints": [
     "static/css/main.53cd702d.css",
-    "static/js/main.99808b04.js"
+    "static/js/main.840592fb.js"
   ]
 }
